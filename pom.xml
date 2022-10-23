@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.deploy02</groupId>
 	<artifactId>deploy02</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.6</version>
 	<name>deploy02</name>
 	<description>Develhope Exercise Spring</description>
 	<properties>
@@ -43,5 +43,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<packaging>war</packaging>
 </project>
